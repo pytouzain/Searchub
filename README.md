@@ -12,12 +12,10 @@
 
 ###### Setup:
 ```
-cd pierre-yves-technical-test/Searchub
+cd Searchub/Searchub
 pod install
 open Searchub.xcworkspace
 ```
-
-Happy coding !
 
 App Logo kindly provided by [Cyril Touzain](https://www.cyriltouzain.com/)
 
