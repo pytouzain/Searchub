@@ -1,0 +1,28 @@
+html *
+{
+    font-size: 1em !important;
+    font-family: Avenir !important;
+    margin: 16px
+}
+
+body {
+    background-color: #E5E5E5
+}
+
+h1 {
+    color: #333333
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
